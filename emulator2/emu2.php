@@ -125,8 +125,8 @@ Date.now=function(){
 }
 </script>
 <script type="module">
-import createWaflashModule from 'https://clubpenguinadvanced.github.io/waflash-demo/emulator2/waflash_latest/waflash.js?t=1';
-var WAFLASH_BASE_URL = "https://clubpenguinadvanced.github.io/waflash-demo/emulator2/waflash_latest/";
+import createWaflashModule from 'https://easella.github.io/waflash-demo/emulator2/waflash_latest/waflash.js?t=1';
+var WAFLASH_BASE_URL = "https://easella.github.io/waflash-demo/emulator2/waflash_latest/";
 var loaded=false;
 
 function _getid(id){
